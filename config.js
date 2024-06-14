@@ -22,20 +22,20 @@
 
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
-  botInvite: "",
-  supportServer: "",
+  ownerID: ["1140888457837822044", "1140888457837822044"],
+  botInvite: "https://discord.com/oauth2/authorize?client_id=1195288606533763072&permissions=8&integration_type=0&scope=applications.commands+bot",
+  supportServer: "https://discord.gg/53SMyyJDY6",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: 'Online',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
-  errorLog: "",
+  errorLog: "https://discord.com/api/webhooks/1250306097529753632/vC8gSgKOK5gVb2lJbsxcyhUhVFSSBW7RREGDurGxmyXR1e7sVj4VHr10yLkIXFydMAqe",
 
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/@GlaceYT",
+    url: "https://www.youtube.com/@RexdenEditz",
   },
 
   voteManager: {
